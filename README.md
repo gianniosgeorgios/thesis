@@ -1,4 +1,4 @@
-# Control Robot Vehicle using Speech Recognition 
+# Control Robot Vehicle using Speech Recognition techniques
 
 ## Setup 
 
