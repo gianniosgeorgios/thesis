@@ -14,4 +14,4 @@ pip -r requirenments.txt
 
 Run python `evaluate.py`:
 
-Press `ENTER` and immediadelty say on word of the dataset. Duration of recoerding is 1 sec. If the spoken word doesn't belong to dataset, thw output will be "unknown" 
+Press `ENTER` and immediadelty say on word of the dataset. Duration of recoerding is 1 sec. If the spoken word doesn't belong to dataset, then the output will be "unknown" 
