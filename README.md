@@ -27,7 +27,11 @@ The first step is to launch Google Speech Commands Dataset. You can download it 
 
 In order to run demo (speech recognizer using your voice):
 
-The first step is to download a)model, (provided in ResNet.zip) and b) pipeline code (provided in evaluate.py). 
+The first step is to download a)model, (provided in ResNet.zip) and b) pipeline code (provided in evaluate.py). Next intall rquirenments using command
+
+```
+pip install -r requirenments.txt
+```
 
 
 
