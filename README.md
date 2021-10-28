@@ -3,6 +3,7 @@
 Author: Giannios Georgios-Taxiarchis
 Lab: Artificial Intelligence and Learning Systems Laboratory (AILS Lab)
 Supervisor: A.G Stafylopatis
+Approved by: 
 
 
 ## Thesis Description 
