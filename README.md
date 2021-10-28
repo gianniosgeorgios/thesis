@@ -6,11 +6,13 @@ The object of the present diploma thesis is the design, implementation and evalu
 
 ## Setup
 
-The experinments about feature extraction process were conducted in Time Domain () and Frequency Domain (). You can run these notebooks in your broswer using Google Colaboratory environment. So download .ipynb files and upload them to Google Colab
+The experinments about feature extraction process were conducted in Time Domain () and Frequency Domain (). You can run these notebooks in your broswer using Google Colaboratory environment. So download .ipynb files and upload them to a Google Colab folder named 'my_project' (in home dir of Colab)
 
 ## Evaluate Results of thesis 
 
-The first step is to launch Google Speech Commands Dataset. Download [here](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz). 
+The first step is to launch Google Speech Commands Dataset. Download it [here](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz). The commands that we use are 12 ('yes', 'no', 'go', 'stop', 'right', 'left', 'one', 'two', 'three', 'four', 'down', 'up'). So, inside 'my_project' folder, upload a folder named speech_commands_v0.01, that contains /yes, /no ... /up subfolders.
+
+The second step is to change paths, according to where your dataset is placed.
 
 The first step, in order to evaluate results, that are present in diploma thesis, (plots, matrices, accuracy values etc ...), is to launch dataset. 
 
