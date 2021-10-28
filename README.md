@@ -1,8 +1,26 @@
 # Control Robot Vehicle using Speech Recognition techniques
 
-## Abstract 
+## Thesis Description 
 
-The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg ‘stop’, ‘go’, ‘right’ ...), through which the direction of the vehicle will be controlled.
+The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg stop, go, right ...), through which the direction of the vehicle will be controlled.
+
+## Setup
+
+The experinments about feature extraction process were conducted in Time Domain () and Frequency Domain (). You can run these notebooks in your broswer using Google Colaboratory environment. So download .ipynb files and upload them to Google Colab
+
+## Evaluate Results of thesis 
+
+The first step is to 
+
+The first step, in order to evaluate results, that are present in diploma thesis, (plots, matrices, accuracy values etc ...), is to launch dataset. 
+
+
+
+
+
+
+
+
 
 Initially, some audio recordings were assembled for each of the commands. These samples were then converted into appropriate representation to be fed into a deep machine learning model. The experimentation concerned both the extraction of features and the synthesis of the neural network architecture.
 
