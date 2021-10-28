@@ -10,7 +10,7 @@ The experinments about feature extraction process were conducted in Time Domain 
 
 ## Evaluate Results of thesis 
 
-The first step is to launch Google Speech Commands Dataset. Download it [here](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz). The commands that we use are 12 ('yes', 'no', 'go', 'stop', 'right', 'left', 'one', 'two', 'three', 'four', 'down', 'up'). So, inside 'my_project' folder, upload a folder named speech_commands_v0.01, that contains /yes, /no ... /up subfolders.
+The first step is to launch Google Speech Commands Dataset. You can download it from [here](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz). The commands that we use are 12 ('yes', 'no', 'go', 'stop', 'right', 'left', 'one', 'two', 'three', 'four', 'down', 'up'). So, inside 'my_project' folder, upload a folder named speech_commands_v0.01, that contains /yes, /no ... /up subfolders.
 
 The second step is to change paths, according to where your dataset is placed.
 
