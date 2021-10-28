@@ -10,7 +10,7 @@ The experinments about feature extraction process were conducted in Time Domain 
 
 ## Evaluate Results of thesis 
 
-The first step is to launch Google Speech Commands Dataset. 
+The first step is to launch [Google Speech Commands Dataset](http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz). 
 
 The first step, in order to evaluate results, that are present in diploma thesis, (plots, matrices, accuracy values etc ...), is to launch dataset. 
 
