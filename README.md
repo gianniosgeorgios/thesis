@@ -1,5 +1,10 @@
 # Control Robot Vehicle using Speech Recognition techniques
 
+Author: Giannios Georgios-Taxiarchis
+Lab: Artificial Intelligence and Learning Systems Laboratory (AILS Lab)
+Supervisor: A.G Stafylopatis
+
+
 ## Thesis Description 
 
 The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg stop, go, right ...), through which the direction of the vehicle will be controlled.
