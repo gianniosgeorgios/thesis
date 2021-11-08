@@ -11,7 +11,7 @@ Lab: Artificial Intelligence and Learning Systems Laboratory (AILS)
 
 ## Thesis Description 
 
-The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg stop, go, right ...), through which the direction of the vehicle will be controlled. For a detailed description, please read thesis report (in Greek) [here](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/18128/1/Thesis_Giorgos_Giannios.pdf). 
+The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg stop, go, right ...), through which the direction of the vehicle will be controlled. For a detailed description, please read thesis report (in Greek) [here](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/18128/1/Thesis_Giorgos_Giannios.pdf) or check demo in this [video](https://www.youtube.com/watch?v=nEsMhEaqhxc). 
 
 ## Setup
 
