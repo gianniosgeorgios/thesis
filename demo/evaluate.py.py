@@ -38,7 +38,7 @@ from scipy.io.wavfile import read,write
 def thread_function(name):
     logging.info("Load    : Loading Custom Model...")
     global model 
-    model = tf.keras.models.load_model('ResNet152')
+    model = tf.keras.models.load_model('custom_model')
     logging.info("Load    : Done.")
 
 # Audio to tensor convertion 
