@@ -12,6 +12,6 @@ pip -r requirenments.txt
 ```
 ### 3) How to run 
 
-Run python `evaluate.py`:
+Run `python3 evaluate.py`:
 
 Press `ENTER` and immediadelty say on word of the dataset. Duration of recoerding is 1 sec. If the spoken word doesn't belong to dataset, then the output will be "unknown".
