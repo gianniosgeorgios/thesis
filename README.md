@@ -13,6 +13,9 @@ Lab: Artificial Intelligence and Learning Systems Laboratory (AILS)
 
 The object of the present diploma thesis is the design, implementation and evaluation of a system that will contribute to the interaction between a person and a robotic vehicle. This interaction will be executed using specific voice commands (eg stop, go, right ...), through which the direction of the vehicle will be controlled. For a detailed description, please read thesis report (in Greek) [here](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/18128/1/Thesis_Giorgos_Giannios.pdf) or check demo in this [video](https://www.youtube.com/watch?v=nEsMhEaqhxc). 
 
+![use](https://user-images.githubusercontent.com/50829499/140767728-040f1db6-625c-47c5-b7a3-a4e49bf2b925.png)
+
+
 ## Setup
 
 The experinments about feature extraction process were conducted in Time Domain (`codes/Time_Domain_Analysis.ipynb`) and Frequency Domain (`codes/Frequency_Domain_Analysis.ipynb`). You can run these notebooks in your broswer using Google Colaboratory Environment (GPU is required). So download .ipynb files and upload them to a Google Colab folder named `my_project` (in home dir of Colab).
